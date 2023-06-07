@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(241,245,248);
+}
+
+#display{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+
+#score{
+    font-size: 25px;
+}
+
+#buttons{
+    font-size: 25px;
+}
